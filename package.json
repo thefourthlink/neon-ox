@@ -1,17 +1,19 @@
 {
-    "title": "Name of the theme",
-    "name": "github-<owner>-<repo>",
-    "description": "A sample dark theme.",
+    "title": "neon-ox",
+    "name": "gh-thefourthlink-neon-ox",
+    "description": "A cool, rugged theme that uses the dark editor. Like Babe the Neon Ox.",
     "version": "0.0.1",
-    "license": "MIT",
-    "author": "your name (https://github.com/<your github id>)",
-    "homepage": "<project web page url or this github repo url if no website available>",
+    "license": "unknown",
+    "author": "thefourthlink",
+    "homepage": "https://github.com/thefourthlink/neon-ox",
     "engines": {
         "brackets": ">=2.0.0"
     },
     "categories": "demo",
     "keywords": [
-        "phcode", "theme", "demo"
+        "phcode",
+        "theme",
+        "demo"
     ],
     "theme": {
         "file": "my-theme.less",
