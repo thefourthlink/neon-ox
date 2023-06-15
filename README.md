@@ -1,42 +1,18 @@
-# Theme Template
+Neon Ox Theme - 1.3.1
+=========
 
-Quick start and create a new theme by using this template. Follow the below 4 steps:
+A cool, bright theme that brings smooth neon to the dark editor.
 
-Refer this [link](https://github.com/phcode-dev/phoenix/wiki/How-To-Write-Extensions-And-Themes) for detailed extension docs after following the below steps:
+Original branch from [Dustin Dowell's Neon theme](https://github.com/dustindowell22/neon-brackets-theme).
 
-## step 1
+## HTML
+![HTML](https://github.com/thefourthlink/neon-ox/blob/20efbe0e8eeb70c293dbaff333d65283c0fd77fd/preview/blueox_html.png)
 
-Login with github: https://github.com/login
+## CSS
+![CSS](https://github.com/thefourthlink/neon-ox/blob/20efbe0e8eeb70c293dbaff333d65283c0fd77fd/preview/blueox_css.png)
 
-## step 2
+## JavaScript
+![JavaScript](https://github.com/thefourthlink/neon-ox/blob/20efbe0e8eeb70c293dbaff333d65283c0fd77fd/preview/blueox_js.png)
 
-Create a new repository using this template.
-![New extension from template](https://user-images.githubusercontent.com/5336369/223931565-2708e516-a422-4e7b-9d89-9ac48c919c3d.gif)
-
-## step 3
-
-* Clone your GitHub Repo created from `step 2`. See [this link](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) to lean how to clone a repository from GitHub.
-
-## step 4
-
-* Go to https://create.phcode.dev .This is a special development centric website of phcode.dev which shows non minified js/css files in the browser developer tools.
-* Open the cloned folder and select `Debug > Load Project As Extension`
-
-![image](https://user-images.githubusercontent.com/5336369/224746152-0416a862-891a-4fe1-b9dd-09add25a6cc0.png)
-
-
-* You can now make code changes to your theme and live preview theme changes as you edit your theme css.
-
-![theme dev](https://user-images.githubusercontent.com/5336369/222974377-e3c04920-dd2b-4eab-be35-57df403ff249.gif)
-* You can also select `Debug> Reload With Extensions` to test the new code changes.
-* When you are done developing the extension/theme, select `Debug> Unload Project As Extension` to unload the extension/theme.
-
-![image](https://user-images.githubusercontent.com/5336369/224747590-556dff1d-5b29-41c3-88a0-3ce72ab643d0.png)
-
-# Detailed Documentation
-
-Please go to https://github.com/phcode-dev/phoenix/wiki/How-To-Write-Extensions-And-Themes for more documentation/community support links.
-
-# Publishing your theme to the repository
-Once you have built your extension/theme, you can publish the theme to phcode.dev extension repository in a single step directly from this repo.
-Please see publish section in this link for more details: https://github.com/phcode-dev/phoenix/wiki/How-To-Write-Extensions-And-Themes
+## Markdown
+![Markdown](https://github.com/thefourthlink/neon-ox/blob/20efbe0e8eeb70c293dbaff333d65283c0fd77fd/preview/blueox_markdown.png)
